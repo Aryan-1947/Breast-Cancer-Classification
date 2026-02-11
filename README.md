@@ -22,15 +22,6 @@ The dataset contains features computed from digitized images of fine needle aspi
 - Matplotlib
 - Seaborn
 
-## 🚀 Model Evaluation
-| Model               | Accuracy | Precision | Recall | F1-Score |
-|--------------------|:--------:|:---------:|:------:|:--------:|
-| Logistic Regression| 0.95     | 0.96      | 0.94   | 0.95     |
-| SVM                | 0.97     | 0.97      | 0.96   | 0.97     |
-| Random Forest      | 0.96     | 0.97      | 0.95   | 0.96     |
-
-*(Replace with your actual metrics)*
-
 ## 📈 Results and Interpretation
 The Support Vector Machine model performed the best with an accuracy of ~97%. The model is reliable for predicting tumor types based on feature patterns from the dataset.
 
